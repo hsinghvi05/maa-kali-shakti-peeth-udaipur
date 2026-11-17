@@ -20,4 +20,4 @@ Upload the whole folder to Netlify (drag & drop at app.netlify.com/drop), GitHub
 ## To update
 - Timings / phone numbers: edit `index.html` (search for the text) — also update the JSON-LD block in `<head>`.
 - New gallery photo: put it in `images/` and copy one `<a class="g-item">` line in the gallery section.
-- Temple location: 24.563335, 73.728686 (https://maps.app.goo.gl/zf7x3iynFaAPVnbW8) — used in the map, the direction buttons and the JSON-LD.
+- Temple location: 24.5633753, 73.7287097 (https://maps.app.goo.gl/cvDHj1kjS4rsz3qR6) — used in the map, the direction buttons and the JSON-LD.
